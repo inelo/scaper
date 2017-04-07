@@ -8,7 +8,7 @@ A small library providing utility methods to `escape` and `unescape` HTML entiti
   npm install scaper --save
 
 ## Usage
-
+```
   var scaper = require('scaper')
       escape = scaper.escape,
       unescape = scaper.unescape;
@@ -18,7 +18,7 @@ A small library providing utility methods to `escape` and `unescape` HTML entiti
       unescaped = unescape(escaped);
 
   console.log('html', html, 'escaped', escaped, 'unescaped', unescaped);
-
+```
 ## Tests
 
   npm test
