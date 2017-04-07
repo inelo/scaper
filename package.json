@@ -1,0 +1,19 @@
+{
+  "name": "scaper",
+  "version": "1.0.0",
+  "description": "Utility methods for escaping/unescaping chars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inelo/scaper.git"
+  },
+  "author": "Marek Mazur <mamazur@gbox.pl> (gbox.pl)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inelo/scaper/issues"
+  },
+  "homepage": "https://github.com/inelo/scaper#readme"
+}
